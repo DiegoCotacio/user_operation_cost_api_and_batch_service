@@ -1,0 +1,30 @@
+name: Insurance Data Generation
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Prefect Cloud login
+      run: |
+        prefect config set PREFECT_API_KEY=${{secrets.PREFECT_API_KEY}} 
+        prefect cloud workspace set --workspace "${{secrets.PREFECT_WORKSPACE}}"
+
+    - name: Run Insurance Data Generation
+      run: python src/feature_pipeline.py

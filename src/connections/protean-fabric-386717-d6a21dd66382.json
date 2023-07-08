@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "protean-fabric-386717",
+  "private_key_id": "d6a21dd663820e3b16aaef03118deed5863b1a8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDD+xCgXSgn4EKX\nF0fo5dkrJ9v4dte2YGSv69oNytTPVtGV1/rwUQ7WCoZMy3fr5ff9FHtxPqSKOw7y\n7zBfGUSJBwtxmcmKzXNycvtbHTK6nGSwc72CYroiUpP0BSXh41KwQAeQm4fJbMF7\nAhJRLOOb9XrzY/RLuizRLCIwjDQd52ZN4O3/QwJe5ehx80NzRq3OVZ6wNF0jGh/q\n8oWvTdhDF/8oy7jpoBbRpkciOrufZJcRA2jMcCapWTl3Jy1sy/c/MC2tDJ3X8PfC\nyt/jSk09FUt3tItE7pBiK18EUu0HUdYOSzCbb0kJ+UBAT966cQ2xB8OSfRQg8QdL\n4EFPjVf7AgMBAAECggEAD+u5cg2fUX36auPNR7JEbikSyaB97abvBwuV70DnAOEA\nrbeZ/yPWnLTGLD7rQxKvjrO3Q3/fRgt+L2YW++LFmowj9dqUcN433rhQixpYIKjL\n1TnRz2HN1TP4KP6yESOyd/b7ple8NDTNkvycGFQZOXY7wsH/+pbpRSTcsizxnuwk\n+8SeS95aUQRyZ1eIN4He8bugxYIn/Q0RO8NCDs9tOPIFtz8w1n6U5RWcO/vq2UUP\nsY/uxKQNcwBXduRZWoN2W1LmCg4Sb35fwJvvUF+FT16yJ598ifwP8Z+IINzTaxMA\n4KVVgAmKF0pAssfIyLKy+5n5mWNpvlezF4nsVHyswQKBgQDwWNL6zT1ECkc5aL4P\nLIoW1ccLsjSuAggfg0vsWP3ZsvzVuVpE/XExjPoGoMMtfX5vlGgw1ro3ZoNYvi5C\noOsbAWCgRqhgWLqOymjkBJVr0dqtGDMvvBnskBRthdkyfR3d2tdIGu0qEYGJWNU+\nmaj9zXrFk+TpeRFukqiEuG8miQKBgQDQvovUyGX/wVl4bCsIFchljzmiIdMur7u5\nlcm1gtz5vJJ5lCLIeDttRCrwOYadE9zgMjCl8uHhEtuHg+V6uAdJKY4XpOVGROVH\nvrJiXtvYDDbkFGpE9dtHawW9vI3pFxG8ZrNGrlSgkMgcmcB28eBP04pvHnk9/1Ey\n0l1w4tmpYwKBgQDvAiWsqvTF+MKjYHnAdTZNRwHNq8WfVP3m+JZDzquCFfBASTZv\nbOlnsR3iAXSWhDl7lEWYa7B670KmuVkfgQ7LqC8Cs8E1Loc3ACoWtkgxFFs1zt74\nFUJicVUfJP+8qZdNzBZR6hT2xLngb6p/uibHXdM9L7lwQ6kGIGncsdw2oQKBgH+U\npjQD00twafWO7vH/Fj70Pb5ZPBBhubOg1+qHM/WzCjcikevCiFes/S1bi2m/tRSV\nuGQEwYdlliUKORw7E8DklALhdnvvKc8ivzYeUfGG7ZmS3KyPM1lAEP85GebngaCL\niHDfpbuJIbVRR2+rP3SqjwaBMorw3Djal9+h1nSPAoGBANgkaJ0uHr6kNMgHBqJo\nDZ3gUZjNStM41pqkqq3Dwy6xSlh+GN4c6+2Pw0JfBtneap95AP54xautPw/gvgKg\nITxcThqqklK+ilibAjiOzv6OCabRdwgm1gcK6qrgAjUE53lDI/mXwoVL55LsIOnj\nh/p6gPgo53o6m0UJc/j7g/FU\n-----END PRIVATE KEY-----\n",
+  "client_email": "ml-tests@protean-fabric-386717.iam.gserviceaccount.com",
+  "client_id": "100319014978257124964",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ml-tests%40protean-fabric-386717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,18 @@
+numpy
+fastapi
+uvicorn
+scikit-learn
+joblib
+mangum
+pandas
+xgboost
+pydantic
+python-multipart
+
+#for etl
+google-cloud-bigquery
+google-auth
+google-api-core
+pyarrow
+datetime
+prefect
