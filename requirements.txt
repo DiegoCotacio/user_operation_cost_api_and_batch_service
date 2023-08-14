@@ -8,6 +8,7 @@ pandas
 xgboost
 pydantic
 python-multipart
+pandera
 
 #for etl
 google-cloud-bigquery
@@ -16,3 +17,8 @@ google-api-core
 pyarrow
 datetime
 prefect
+
+
+db-dtype
+mlflow
+zenml
