@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/eb35a40bd0394da7ad73eeea0b56bc65/artifacts
+end_time: 1689486819700
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: eb35a40bd0394da7ad73eeea0b56bc65
+run_name: honorable-boar-938
+run_uuid: eb35a40bd0394da7ad73eeea0b56bc65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486814915
+status: 3
+tags: []
+user_id: diego

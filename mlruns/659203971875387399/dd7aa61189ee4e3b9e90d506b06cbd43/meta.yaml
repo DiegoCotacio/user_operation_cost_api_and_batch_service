@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/dd7aa61189ee4e3b9e90d506b06cbd43/artifacts
+end_time: 1689486753530
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: dd7aa61189ee4e3b9e90d506b06cbd43
+run_name: intrigued-conch-34
+run_uuid: dd7aa61189ee4e3b9e90d506b06cbd43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486748571
+status: 3
+tags: []
+user_id: diego

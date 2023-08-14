@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/e2fb7462d816484da13d7f26b77f077d/artifacts
+end_time: 1689486777773
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: e2fb7462d816484da13d7f26b77f077d
+run_name: agreeable-grouse-541
+run_uuid: e2fb7462d816484da13d7f26b77f077d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486772974
+status: 3
+tags: []
+user_id: diego

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/d97c6b89fb5940a0888225c885f0c0b4/artifacts
+end_time: 1689741059405
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: d97c6b89fb5940a0888225c885f0c0b4
+run_name: clumsy-boar-784
+run_uuid: d97c6b89fb5940a0888225c885f0c0b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689741053907
+status: 3
+tags: []
+user_id: diego

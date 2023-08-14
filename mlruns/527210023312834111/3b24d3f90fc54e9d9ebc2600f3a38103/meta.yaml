@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/527210023312834111/3b24d3f90fc54e9d9ebc2600f3a38103/artifacts
+end_time: 1689881834614
+entry_point_name: ''
+experiment_id: '527210023312834111'
+lifecycle_stage: active
+run_id: 3b24d3f90fc54e9d9ebc2600f3a38103
+run_name: LightGBM Experiment Global
+run_uuid: 3b24d3f90fc54e9d9ebc2600f3a38103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689881701436
+status: 3
+tags: []
+user_id: diego

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/cf6bc21257d3479bb85d874a82ae0d5a/artifacts
+end_time: 1689490848937
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: cf6bc21257d3479bb85d874a82ae0d5a
+run_name: gentle-loon-356
+run_uuid: cf6bc21257d3479bb85d874a82ae0d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689490836269
+status: 3
+tags: []
+user_id: diego

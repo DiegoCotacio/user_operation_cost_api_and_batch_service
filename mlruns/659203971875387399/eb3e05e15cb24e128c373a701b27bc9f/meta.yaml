@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/eb3e05e15cb24e128c373a701b27bc9f/artifacts
+end_time: 1689490906833
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: eb3e05e15cb24e128c373a701b27bc9f
+run_name: tasteful-turtle-643
+run_uuid: eb3e05e15cb24e128c373a701b27bc9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689490899715
+status: 3
+tags: []
+user_id: diego

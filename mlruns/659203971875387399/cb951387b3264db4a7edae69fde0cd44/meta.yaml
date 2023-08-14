@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/cb951387b3264db4a7edae69fde0cd44/artifacts
+end_time: 1689485953622
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: cb951387b3264db4a7edae69fde0cd44
+run_name: overjoyed-rat-529
+run_uuid: cb951387b3264db4a7edae69fde0cd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689485949104
+status: 3
+tags: []
+user_id: diego

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/7c60c97408ef4a8eb71e16488667d04f/artifacts
+end_time: 1689490892020
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 7c60c97408ef4a8eb71e16488667d04f
+run_name: salty-koi-388
+run_uuid: 7c60c97408ef4a8eb71e16488667d04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689490884293
+status: 3
+tags: []
+user_id: diego

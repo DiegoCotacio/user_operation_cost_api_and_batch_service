@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/d2bf1f5173dd40fd94212a2c23ae47ea/artifacts
+end_time: 1689486748529
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: d2bf1f5173dd40fd94212a2c23ae47ea
+run_name: colorful-wolf-241
+run_uuid: d2bf1f5173dd40fd94212a2c23ae47ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486743969
+status: 3
+tags: []
+user_id: diego

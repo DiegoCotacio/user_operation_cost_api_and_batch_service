@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/cfbde70518204c1f9cbf17117a0c2fff/artifacts
+end_time: 1689485944501
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: cfbde70518204c1f9cbf17117a0c2fff
+run_name: traveling-bass-501
+run_uuid: cfbde70518204c1f9cbf17117a0c2fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689485933536
+status: 3
+tags: []
+user_id: diego

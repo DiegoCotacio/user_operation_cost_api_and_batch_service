@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/87452061807040babcb85900ec31c6b0/artifacts
+end_time: 1689490858057
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 87452061807040babcb85900ec31c6b0
+run_name: nosy-lynx-84
+run_uuid: 87452061807040babcb85900ec31c6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689490853524
+status: 3
+tags: []
+user_id: diego

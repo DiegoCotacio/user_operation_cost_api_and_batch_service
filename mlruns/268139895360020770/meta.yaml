@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/268139895360020770
+creation_time: 1689753125062
+experiment_id: '268139895360020770'
+last_update_time: 1689753125062
+lifecycle_stage: active
+name: Training Pipeline for XGBoost Model V2

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/527210023312834111
+creation_time: 1689881695997
+experiment_id: '527210023312834111'
+last_update_time: 1689881695997
+lifecycle_stage: active
+name: Training Pipeline for LigthGBM Model V1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/3480a9ff66654b32ab1de82cd2d1bf31/artifacts
+end_time: 1689490964644
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 3480a9ff66654b32ab1de82cd2d1bf31
+run_name: bold-newt-521
+run_uuid: 3480a9ff66654b32ab1de82cd2d1bf31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689490960987
+status: 3
+tags: []
+user_id: diego

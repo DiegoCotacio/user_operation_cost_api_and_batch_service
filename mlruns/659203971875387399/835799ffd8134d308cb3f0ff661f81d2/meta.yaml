@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/835799ffd8134d308cb3f0ff661f81d2/artifacts
+end_time: 1689739917600
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 835799ffd8134d308cb3f0ff661f81d2
+run_name: monumental-zebra-182
+run_uuid: 835799ffd8134d308cb3f0ff661f81d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689739910226
+status: 3
+tags: []
+user_id: diego

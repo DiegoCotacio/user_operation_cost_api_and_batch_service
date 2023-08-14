@@ -1,0 +1,3 @@
+{
+  "XGBRegressor_score_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)"
+}

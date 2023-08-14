@@ -29,9 +29,9 @@ def generate_dataframe():
         'children': {'min': 0, 'mean': 1, 'max': 5}}
 
     categorical_variables = {
-        'smoker': {'classes': ['False', 'True'], 'distribution': [80, 20]},
+        'smoker': {'classes': ['no', 'yes'], 'distribution': [80, 20]},
         'region': {'classes': ['southeast', 'southwest','northwest','northeast'], 'distribution': [25, 25, 25, 25]},
-        'sex': {'classes': ['False', 'True'], 'distribution': [50, 50]}}
+        'sex': {'classes': ['male', 'female'], 'distribution': [50, 50]}}
 
     # Generación de los datos
     data = {}
@@ -107,6 +107,8 @@ def ingest_or_create_to_bigquery(df, table_name, dataset_id):
     job_config.write_disposition = bigquery.WriteDisposition.WRITE_APPEND
     job = client.load_table_from_dataframe(df, table_ref, job_config=job_config)
     job.result()
+
+
 
 @flow(name="Synt insurance data generator x Bigquery")
 def generate_insurance_data_bigquery():

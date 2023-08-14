@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/ff62a030ff62498d88c35f9c9b3fed1d/artifacts
+end_time: 1689486758505
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: ff62a030ff62498d88c35f9c9b3fed1d
+run_name: bedecked-shad-403
+run_uuid: ff62a030ff62498d88c35f9c9b3fed1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486753569
+status: 3
+tags: []
+user_id: diego

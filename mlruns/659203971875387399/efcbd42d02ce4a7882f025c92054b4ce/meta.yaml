@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/efcbd42d02ce4a7882f025c92054b4ce/artifacts
+end_time: 1689741081231
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: efcbd42d02ce4a7882f025c92054b4ce
+run_name: redolent-hen-828
+run_uuid: efcbd42d02ce4a7882f025c92054b4ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689741075552
+status: 3
+tags: []
+user_id: diego

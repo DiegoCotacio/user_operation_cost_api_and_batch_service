@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/6fe3e84809824c07bbab361437264ab7/artifacts
+end_time: 1689486772905
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 6fe3e84809824c07bbab361437264ab7
+run_name: wistful-shrimp-658
+run_uuid: 6fe3e84809824c07bbab361437264ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486768093
+status: 3
+tags: []
+user_id: diego

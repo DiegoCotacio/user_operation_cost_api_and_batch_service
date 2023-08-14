@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/5d3d58236ba7490a819d49f20db8efb1/artifacts
+end_time: 1689741070184
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 5d3d58236ba7490a819d49f20db8efb1
+run_name: hilarious-crane-594
+run_uuid: 5d3d58236ba7490a819d49f20db8efb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689741064881
+status: 3
+tags: []
+user_id: diego

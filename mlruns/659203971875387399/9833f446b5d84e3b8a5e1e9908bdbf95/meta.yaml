@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/9833f446b5d84e3b8a5e1e9908bdbf95/artifacts
+end_time: 1689486725786
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 9833f446b5d84e3b8a5e1e9908bdbf95
+run_name: beautiful-snail-601
+run_uuid: 9833f446b5d84e3b8a5e1e9908bdbf95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486718077
+status: 3
+tags: []
+user_id: diego

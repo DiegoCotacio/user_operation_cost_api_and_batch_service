@@ -1,0 +1,9 @@
+digest: 9c958574
+name: dataset
+profile: '{"num_rows": 1069, "num_elements": 6414}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "age"}, {"type": "long", "name":
+  "sex"}, {"type": "double", "name": "bmi"}, {"type": "double", "name": "children"},
+  {"type": "long", "name": "smoker"}, {"type": "double", "name": "region"}]}'
+source: '{"tags": {"mlflow.user": "diego", "mlflow.source.name": "src/training_pipeline.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "aefbac34b71d709383993d4ed137b4a75f518b08"}}'
+source_type: code

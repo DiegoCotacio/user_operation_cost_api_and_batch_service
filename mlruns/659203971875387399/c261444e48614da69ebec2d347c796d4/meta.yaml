@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/c261444e48614da69ebec2d347c796d4/artifacts
+end_time: 1689486739407
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: c261444e48614da69ebec2d347c796d4
+run_name: burly-squirrel-154
+run_uuid: c261444e48614da69ebec2d347c796d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486734811
+status: 3
+tags: []
+user_id: diego

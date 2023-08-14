@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/50f29a5b0dc541198a41baa546d88c6e/artifacts
+end_time: 1689739902353
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 50f29a5b0dc541198a41baa546d88c6e
+run_name: adaptable-gull-76
+run_uuid: 50f29a5b0dc541198a41baa546d88c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689739896005
+status: 3
+tags: []
+user_id: diego

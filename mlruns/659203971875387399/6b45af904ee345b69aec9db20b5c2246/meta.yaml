@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/6b45af904ee345b69aec9db20b5c2246/artifacts
+end_time: 1689739910153
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 6b45af904ee345b69aec9db20b5c2246
+run_name: incongruous-deer-378
+run_uuid: 6b45af904ee345b69aec9db20b5c2246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689739902441
+status: 3
+tags: []
+user_id: diego

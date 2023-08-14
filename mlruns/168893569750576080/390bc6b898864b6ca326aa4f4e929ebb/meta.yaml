@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/168893569750576080/390bc6b898864b6ca326aa4f4e929ebb/artifacts
+end_time: 1689783805779
+entry_point_name: ''
+experiment_id: '168893569750576080'
+lifecycle_stage: active
+run_id: 390bc6b898864b6ca326aa4f4e929ebb
+run_name: XGBoost_Experiment
+run_uuid: 390bc6b898864b6ca326aa4f4e929ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689783779325
+status: 3
+tags: []
+user_id: diego

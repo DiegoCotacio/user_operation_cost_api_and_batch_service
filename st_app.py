@@ -10,6 +10,7 @@ API_URL = 'https://66zl2vyt7uvasnujluqwmdfepy0pciao.lambda-url.us-east-2.on.aws/
 PREDICT_ENDPOINT = '/online_predict'
 BATCH_PREDICT_ENDPOINT = '/batch_predict'
 
+
 def predict_input(input_data):
     response = requests.post(API_URL + PREDICT_ENDPOINT, json = input_data)
     if response.status_code == 200:

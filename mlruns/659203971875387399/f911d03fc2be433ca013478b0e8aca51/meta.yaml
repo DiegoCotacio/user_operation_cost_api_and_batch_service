@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/f911d03fc2be433ca013478b0e8aca51/artifacts
+end_time: 1689741124852
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: f911d03fc2be433ca013478b0e8aca51
+run_name: fearless-gull-403
+run_uuid: f911d03fc2be433ca013478b0e8aca51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689741120125
+status: 3
+tags: []
+user_id: diego

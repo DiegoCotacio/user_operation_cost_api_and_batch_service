@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/ab45ba2db0f44263812563902714d047/artifacts
+end_time: 1689486814833
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: ab45ba2db0f44263812563902714d047
+run_name: bedecked-yak-448
+run_uuid: ab45ba2db0f44263812563902714d047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486809782
+status: 3
+tags: []
+user_id: diego

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/339f8af4efda454b880869370a0a0721/artifacts
+end_time: 1689486783620
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 339f8af4efda454b880869370a0a0721
+run_name: nosy-crane-965
+run_uuid: 339f8af4efda454b880869370a0a0721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486777855
+status: 3
+tags: []
+user_id: diego

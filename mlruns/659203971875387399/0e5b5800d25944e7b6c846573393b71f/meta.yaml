@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/0e5b5800d25944e7b6c846573393b71f/artifacts
+end_time: 1689490878608
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 0e5b5800d25944e7b6c846573393b71f
+run_name: secretive-rat-120
+run_uuid: 0e5b5800d25944e7b6c846573393b71f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689490873063
+status: 3
+tags: []
+user_id: diego

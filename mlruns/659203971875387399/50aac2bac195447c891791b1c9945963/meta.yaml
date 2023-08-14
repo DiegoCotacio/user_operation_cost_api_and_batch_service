@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/50aac2bac195447c891791b1c9945963/artifacts
+end_time: 1689486734769
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 50aac2bac195447c891791b1c9945963
+run_name: tasteful-flea-720
+run_uuid: 50aac2bac195447c891791b1c9945963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486730328
+status: 3
+tags: []
+user_id: diego

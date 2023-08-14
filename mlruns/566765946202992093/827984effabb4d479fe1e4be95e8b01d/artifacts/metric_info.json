@@ -1,0 +1,12 @@
+{
+  "XGBRegressor_score-10_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-2_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-3_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-4_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-5_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-6_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-7_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-8_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score-9_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)",
+  "XGBRegressor_score_unknown_dataset": "XGBRegressor.score(X=<DataFrame>, y=<Series>)"
+}

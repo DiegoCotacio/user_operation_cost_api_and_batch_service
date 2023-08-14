@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/8c2be2b9c6a745fd992d9a22425fbd96/artifacts
+end_time: 1689486743926
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: 8c2be2b9c6a745fd992d9a22425fbd96
+run_name: painted-rat-323
+run_uuid: 8c2be2b9c6a745fd992d9a22425fbd96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486739489
+status: 3
+tags: []
+user_id: diego

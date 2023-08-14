@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/diego/OneDrive/Escritorio/mlops_projects/mlops/insurance_online_api/mlruns/659203971875387399/e5ddef3aebe9425f9c8e6dc5f7fa8fc1/artifacts
+end_time: 1689486763174
+entry_point_name: ''
+experiment_id: '659203971875387399'
+lifecycle_stage: active
+run_id: e5ddef3aebe9425f9c8e6dc5f7fa8fc1
+run_name: bustling-stork-119
+run_uuid: e5ddef3aebe9425f9c8e6dc5f7fa8fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689486758548
+status: 3
+tags: []
+user_id: diego
